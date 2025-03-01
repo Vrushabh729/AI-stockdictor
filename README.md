@@ -15,7 +15,7 @@ Welcome to the **AI Investment Predictor** – an AI-powered platform that provi
 - `README.md` → Project details (this file)  
 
 ## 🚀 How to Use
-1. **Visit the Website** → [https://your-username.github.io/investment-ai-website/](#)  
+1. **Visit the Website** → [https://Vrushabh729.github.io/AI-stockdictor/](#)  
 2. **Check AI Predictions** – Get insights on stocks 📈  
 3. **Sign Up** – Stay updated with the latest AI trends 📩  
 
